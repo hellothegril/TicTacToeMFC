@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Erstellungsprotokoll</h1>
+<h3>
+--------------------Konfiguration: TicTacToe - Win32 Debug--------------------
+</h3>
+<h3>Befehlszeilen</h3>
+Erstellen der temporären Datei  "C:\Users\Damian\AppData\Local\Temp\RSPC4A0.tmp" mit Inhalten
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /D "_AFXDLL" /Fp"Debug/TicTacToe.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"D:\Microsoft Visual Studio\MyProjects\TicTacToe\TicTac.cpp"
+]
+Creating command line "cl.exe @C:\Users\Damian\AppData\Local\Temp\RSPC4A0.tmp" 
+Erstellen der Befehlzeile "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/TicTacToe.pdb" /debug /machine:I386 /out:"Debug/TicTacToe.exe" /pdbtype:sept  ".\Debug\TicTac.obj" "
+<h3>Ausgabefenster</h3>
+Kompilierung läuft...
+TicTac.cpp
+Linker-Vorgang läuft...
+
+
+
+<h3>Ergebnisse</h3>
+TicTacToe.exe - 0 Fehler, 0 Warnung(en)
+</pre>
+</body>
+</html>
