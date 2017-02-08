@@ -1,6 +1,7 @@
-# Project Title
+# TicTacToe Application
 
-One Paragraph of project description goes here
+This simple application is written by using MFC C++ framework.
+
 
 ## Getting Started
 
